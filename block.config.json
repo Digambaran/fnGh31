@@ -1,0 +1,15 @@
+{
+  "name": "fnGh31",
+  "blockId": "4MrDu0Vjxw_i4tDvsKhMT",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/Digambaran/fnGh31",
+    "ssh": "git@github.com:Digambaran/fnGh31.git"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "",
+  "postPull": "npm i",
+  "standAloneBlock": false,
+  "supportedAppblockVersions": ["2.0.0"]
+}
